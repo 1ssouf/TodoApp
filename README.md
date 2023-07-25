@@ -1,4 +1,4 @@
-# Fonctionnalités clés de l'application
+# Fonctionnalités de l'application
 
 - Affichage de la liste des tâches à accomplir.
 - Ajout, modification et suppression de tâches.
